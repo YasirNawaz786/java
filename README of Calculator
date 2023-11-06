@@ -1,0 +1,14 @@
+FIRST PROGRAM (CALCULATOR PERFORMING AIRTHMETIC OPERATION )
+The program having libereries .
+it has define a simple calculator in "main method.
+Using main method "Scanner " object named  read to user input .
+Three  variables use num1,num2,num3,doublenum are stored .
+We using loop conditions for performing multiples calculations .
+We using swith statement for the taken input of Airhmetic operation one by one .
+User give input expression of Airthmetic operation or "exit" to quit .
+The input expression is "split"into token (sepreated by spaces ).
+The program parse first number ,operator and second number from the token .
+If user input a "exit" the program displays farwell message and terminates.
+END .
+
+
