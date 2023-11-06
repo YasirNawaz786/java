@@ -1,0 +1,16 @@
+SECOND PROGRAM 2 (Acheivement of Student)
+Intilize the a string ,variables,"student data",containing a list a student name and their scores in the format of "NAME :SCORE ;
+Split the studentNames And Student score .
+Create a two aray list ,Student names",& student scores",to store student mname and their score .
+create array of string for the students name,and other array of int for student scores .
+  split each record into two parts (student name & score)
+populate the array data from split records.
+using loop condition for performing individual data of student.
+calculate and display statistics .
+-total number of student.
+-average score of all student .
+-highest score achieved by student and their name .
+-lowest score achieved by student and their name .
+END 
+
+
